@@ -1,4 +1,4 @@
-# belajar-flexbox
-Belajar Tentang Flexbox
+# tutorial-css-flexbox
+Belajar CSS Flexbox
 
-Sumber : https://www.youtube.com/watch?v=-J372iDFU8Y&list=PLFIM0718LjIU1lWlM34j6E9fMlrrSGZ1k&pp=iAQB
+## https://developer.mozilla.org/en-US/docs/Web/CSS
